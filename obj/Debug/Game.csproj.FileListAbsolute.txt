@@ -1,0 +1,52 @@
+C:\Users\user\source\repos\Game\bin\Debug\Game.exe.config
+C:\Users\user\source\repos\Game\bin\Debug\Game.exe
+C:\Users\user\source\repos\Game\bin\Debug\Game.pdb
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-system-2.dll
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-window-2.dll
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-audio-2.pdb
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-audio-2.xml
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-graphics-2.pdb
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-graphics-2.xml
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-system-2.pdb
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-system-2.xml
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-window-2.pdb
+C:\Users\user\source\repos\Game\bin\Debug\sfmlnet-window-2.xml
+C:\Users\user\source\repos\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\user\source\repos\Game\obj\Debug\Game.exe
+C:\Users\user\source\repos\Game\obj\Debug\Game.pdb
+F:\Курсач 2019\Game\bin\Debug\Game.exe.config
+F:\Курсач 2019\Game\bin\Debug\Game.exe
+F:\Курсач 2019\Game\bin\Debug\Game.pdb
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-audio-2.pdb
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-audio-2.xml
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-graphics-2.pdb
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-graphics-2.xml
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-system-2.pdb
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-system-2.xml
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-window-2.pdb
+F:\Курсач 2019\Game\bin\Debug\sfmlnet-window-2.xml
+F:\Курсач 2019\Game\obj\Debug\Game.csprojAssemblyReference.cache
+F:\Курсач 2019\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+F:\Курсач 2019\Game\obj\Debug\Game.csproj.CopyComplete
+F:\Курсач 2019\Game\obj\Debug\Game.exe
+F:\Курсач 2019\Game\obj\Debug\Game.pdb
+G:\Курсач 2019\Game\bin\Debug\Game.exe.config
+G:\Курсач 2019\Game\bin\Debug\Game.exe
+G:\Курсач 2019\Game\bin\Debug\Game.pdb
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-audio-2.pdb
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-audio-2.xml
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-graphics-2.pdb
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-graphics-2.xml
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-system-2.pdb
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-system-2.xml
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-window-2.pdb
+G:\Курсач 2019\Game\bin\Debug\sfmlnet-window-2.xml
+G:\Курсач 2019\Game\obj\Debug\Game.csprojAssemblyReference.cache
+G:\Курсач 2019\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+G:\Курсач 2019\Game\obj\Debug\Game.csproj.CopyComplete
+G:\Курсач 2019\Game\obj\Debug\Game.exe
+G:\Курсач 2019\Game\obj\Debug\Game.pdb
